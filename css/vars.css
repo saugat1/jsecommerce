@@ -1,0 +1,13 @@
+:root {
+  --primary: #4afd;
+  --secondary: #5aad;
+  --bg: #eee;
+  --text: #222;
+  --white: #fff;
+  --padding-sm: 0.5rem;
+  --padding-lg: 1.5rem;
+  --padding: 1rem;
+  --margin: 20px;
+  --font-size: 15px;
+  --font-family: "Poppins", sans-serif;
+}
